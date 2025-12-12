@@ -17,7 +17,7 @@
 
 <h3 align="left">Tech Stack</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,linux,vscode,cpp,js,react" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,cpp,js,react" />
 </p>
 
 
